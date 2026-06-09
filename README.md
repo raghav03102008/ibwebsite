@@ -272,10 +272,64 @@ Planned improvements include:
 * ESS content is not yet fully implemented.
 * The timer tracks sessions only during the current page session.
 
-## License
+## AI-Generated Educational Content Notice
 
-MIT License
+The flashcards, quiz questions, answers, explanations, and topic lists included in this project are AI-generated placeholder content.
 
-## Author
+They are intended to demonstrate how the study dashboard works, rather than serve as a verified or official IB revision resource.
 
-Created as a lightweight IB study dashboard prototype.
+### Why the Question Bank Is AI-Generated
+
+The current version of IB Study Hub is mainly focused on building and testing the platform interface, including:
+
+* Dashboard navigation
+* Flashcard interaction
+* Quiz flow
+* Topic checklist progress
+* Study timer functionality
+* Responsive layout and user experience
+
+Because the project is still an early prototype, the educational content was generated quickly using AI so the app could be tested with realistic sample data across multiple IB subjects.
+
+This allows the project to show how the final product could work without needing a fully reviewed academic question bank at this stage.
+
+### Why This Matters
+
+IB subject content must be accurate, syllabus-aligned, and clearly reviewed before being used for serious revision. AI-generated questions may contain:
+
+* Oversimplified explanations
+* Missing syllabus detail
+* Incorrect wording
+* Outdated syllabus references
+* Uneven subject coverage
+* Questions that are too easy or too generic
+* Answers that need teacher or subject-expert verification
+
+For this reason, the current question bank should not be treated as official IB material.
+
+### Current Use of the Content
+
+The AI-generated content is currently used only as sample data for demonstrating app functionality.
+
+It helps test:
+
+* Flashcard display
+* Subject filtering
+* Quiz selection
+* Answer checking
+* Score tracking
+* Topic progress tracking
+
+### Future Content Plan
+
+Future versions should replace or improve the AI-generated content with reviewed material that is:
+
+* Aligned with the current IB syllabus
+* Checked by students, teachers, or subject experts
+* Organised by topic and difficulty
+* Balanced across subjects
+* Clearly separated by SL and HL content
+* Reviewed for accuracy before release
+
+Until that review process is complete, the app should be considered a functional study dashboard prototype, not a fully verified IB revision platform.
+
